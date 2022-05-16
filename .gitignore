@@ -16,7 +16,7 @@
 .prettierignore
 
 # Avoid unnecessary files & folders
-qr-code-component-sketh/
+qr-code-component-sketch/
 *.config
 README-template.md
 style-guide.md
